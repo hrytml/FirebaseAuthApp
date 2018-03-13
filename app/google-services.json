@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313743681620",
+    "firebase_url": "https://fir-authapp-4d655.firebaseio.com",
+    "project_id": "fir-authapp-4d655",
+    "storage_bucket": "fir-authapp-4d655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313743681620:android:4fb66d9b975820e9",
+        "android_client_info": {
+          "package_name": "com.io.huriyeedu.firebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313743681620-kf9408aikapslv943leqrlqkvod66gkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.io.huriyeedu.firebaseauthapp",
+            "certificate_hash": "60f575eab939f249d8c33373b7948f528b8c082f"
+          }
+        },
+        {
+          "client_id": "313743681620-0qdl36cgi7u92hg6pjjf40jolvbahe69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiH1FknpCazqwldszBQSETszUADsuYmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313743681620-0qdl36cgi7u92hg6pjjf40jolvbahe69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
